@@ -3,9 +3,9 @@
 Aplicação desenvolvida para a disciplina de Engenharia de software, do Curso de Bacharelado em Ciência da Computação, da Universidade Federal Rural de Pernambuco, como um dos requisitos para a aprovação na disciplina.
 
 ## Motivação
-
-- A cliente do software, Maria Aparecida, necessita de um software que seja capaz de expor seus produtos
-- Clientes de Maria Aparecida precisavam ir a loja para então poderem ver quais os produtos estavam a venda
+  
+- A cliente do software, Maria Aparecida, necessita de um software que seja capaz de expor seus produtos  
+- Clientes de Maria Aparecida precisavam ir a loja para então poderem ver quais os produtos estavam a venda  
 
 ## Contribuidores
 
