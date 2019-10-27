@@ -263,7 +263,7 @@ DEPENDENCIES
   capybara (>= 2.13)
   coffee-rails (~> 4.2)
   coffee-script-source (= 1.8.0)
-  coveralls
+  coveralls (~> 0.8.15)
   cucumber-rails
   database_cleaner
   devise

@@ -19,7 +19,7 @@ gem 'bootstrap-generators', '~> 3.3.4'
 gem 'record_tag_helper', '~> 1.0'
 gem 'devise'
 gem 'bcrypt', '3.1.12'
-gem 'coveralls', require: false
+gem 'coveralls', '~> 0.8.15'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
