@@ -47,7 +47,7 @@ group :development, :test do
   gem 'rspec', '~> 3.7.0'
   gem 'database_cleaner'
   gem 'sqlite3', '~> 1.3.6'
-  gem 'coveralls'
+  gem 'coveralls', require: false
 end
 
 group :development do
