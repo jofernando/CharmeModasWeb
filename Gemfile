@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 ruby "2.3.3"
+gem 'coveralls', require: false
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.7'
 # Use sqlite3 as the database for Active Record
@@ -47,7 +48,6 @@ group :development, :test do
   gem 'rspec', '~> 3.7.0'
   gem 'database_cleaner'
   gem 'sqlite3', '~> 1.3.6'
-  gem 'coveralls', require: false
 end
 
 group :development do
