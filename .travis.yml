@@ -5,6 +5,7 @@ rvm:
 script:
   - bundle exec rake db:create:all
   - bundle exec rake db:migrate
+  - echo "$CODACY_PROJECT_TOKEN"
   - bundle exec rake test
   - ruby -S bundle exec cucumber --profile default
 
